@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_set</folder>
+	<filename>297_HC.png</filename>
+	<path>C:\Users\recon1\Documents\AI_1\Assignment2\data_set\Picture\test_set\297_HC.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>540</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>142</ymin>
+			<xmax>653</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

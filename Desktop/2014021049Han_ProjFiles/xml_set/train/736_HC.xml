@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training_set</folder>
+	<filename>736_HC.png</filename>
+	<path>C:\Users\recon1\Documents\AI_1\Assignment2\data_set\Picture\training_set\736_HC.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>540</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>26</ymin>
+			<xmax>660</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>
